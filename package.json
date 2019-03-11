@@ -1,0 +1,20 @@
+{
+  "name": "logit-function",
+  "description": "A JavaScript implementation of the logit function",
+  "author": "Fernando Via Canel <fernando.via@gmail.com>",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xaviervia/logit-function"
+  },
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^0.22.1",
+    "mocha": "2.x"
+  },
+  "scripts": {
+    "test": "mocha test"
+  }
+}
